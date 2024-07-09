@@ -1,6 +1,3 @@
-# Shop
-SPRINGBOOT/MYSQL를 사용한 쇼핑몰 프로젝트 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9cd1e6&height=150&section=header" />
 
 # 쇼핑몰 프로젝트
