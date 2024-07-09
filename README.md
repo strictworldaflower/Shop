@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9cd1e6&height=150&section=header" />
 
 # 쇼핑몰 프로젝트
 
@@ -72,10 +72,19 @@ spring.jpa.hibernate.ddl-auto=update
 - **장바구니**
 <img src="src/main/resources/static/images/장바구니2.png" alt="장바구니" width="500">
 
+- **상세 페이지**
+<img src="src/main/resources/static/images/상품상세페이지.png" alt="상세페이지" width="500">
+
+- **구매 이력**
+<img src="src/main/resources/static/images/구매이력.png" alt="구매이력" width="500">
+
+- **상품 주문**
+<img src="src/main/resources/static/images/주문하기.png" alt="상품 주문" width="500">
+
 문의
 프로젝트에 대해 궁금한 점이나 문제가 있으면 다음 이메일로 문의해 주세요: [djarlen1@enaver.com]
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9cd1e6&height=150&section=footer" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strictworldaflower)](https://github.com/anuraghazra/github-readme-stats)
 
