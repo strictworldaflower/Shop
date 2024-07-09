@@ -22,7 +22,7 @@
 
 ### 필수 조건
 - Java 11 이상
-- Maven
+- Gradle
 - MySQL
 
 MySQL에서 데이터베이스를 생성하고, src/main/resources/application.properties 파일에 데이터베이스 연결 설정을 업데이트합니다.
