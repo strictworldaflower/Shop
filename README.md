@@ -18,31 +18,6 @@
 - **데이터베이스**: MySQL
 - **빌드 도구**: Gradle
 
-## 프로젝트 구조
-
-src
-├── main
-│ ├── java
-│ │ └── com
-│ │ └── mysite
-│ │ └── shop
-│ │ ├── controller
-│ │ ├── dto
-│ │ ├── entity
-│ │ ├── repository
-│ │ ├── service
-│ │ └── ShopApplication.java
-│ └── resources
-│ ├── static
-│ ├── templates
-│ ├── application.properties
-│ └── schema.sql
-└── test
-└── java
-└── com
-└── mysite
-└── shop
-
 ## 설치 및 실행 방법
 
 ### 필수 조건
