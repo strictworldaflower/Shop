@@ -81,7 +81,21 @@ spring.jpa.hibernate.ddl-auto=update
 1. 관리자 계정으로 로그인하여 상품을 등록, 수정, 삭제할 수 있습니다.
 2. "관리자 페이지"에서 주문 내역을 관리할 수 있습니다.
 
+## 스크린샷
+- **로그인 화면**
 <img src="src/main/resources/static/images/로그인.png" alt="로그인 화면" width="500">
+
+- **메인 화면**
+<img src="src/main/resources/static/images/메인페이지.png" alt="메인 화면" width="500">
+
+- **상품 목록**
+<img src="src/main/resources/static/images/상품관리.png" alt="상품 목록" width="500">
+
+- **상품 등록**
+<img src="src/main/resources/static/images/상품등록.png" alt="상품 등록" width="500">
+
+- **장바구니**
+<img src="src/main/resources/static/images/장바구니2.png" alt="장바구니" width="500">
 
 문의
 프로젝트에 대해 궁금한 점이나 문제가 있으면 다음 이메일로 문의해 주세요: [djarlen1@enaver.com]
